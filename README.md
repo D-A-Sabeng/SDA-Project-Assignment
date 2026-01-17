@@ -57,3 +57,14 @@ If you use this analysis or the associated code in your own research, please cit
 
 *APA Style:* Bashir, N., Sabeng, D. A., & Rehman, S. U. (2025). Report on Time Use Survey: A Statistical Analysis of Finnish Household Habits. University of Turku, Department of Computing.
 
+
+## License
+Code and Analysis 
+
+This project is licensed under the MIT License. This means you are free to use, copy, modify, and distribute the code, provided that the original copyright and permission notice are included.
+
+Data 
+
+The dataset used in this analysis is derived from the "Teaching Use Data of the Time Use Survey" by Statistics Finland. It is used under the Creative Commons Attribution 4.0 International (CC BY 4.0) licence. Any redistribution of the data must credit Statistics Finland accordingly.
+
+
